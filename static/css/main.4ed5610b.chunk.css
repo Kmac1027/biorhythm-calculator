@@ -1,0 +1,2 @@
+.biorhythm-card .emo path{stroke:var(--app-emo-color)}.biorhythm-card .int path,.biorhythm-card .phy path{stroke:var(--app-phy-color)}.biorhythm-card p{line-height:normal}.biorhythm-card .emo{color:var(--app-emo-color)}.biorhythm-card .phy{color:var(--app-phy-color)}.biorhythm-card .int{color:var(--app-int-color)}:root{--app-emo-color:red;--app-phy-color:green;--app-int-color:#00f}
+/*# sourceMappingURL=main.4ed5610b.chunk.css.map */
