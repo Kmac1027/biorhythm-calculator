@@ -1,0 +1,15 @@
+.biorhythm-card p {
+  line-height: normal;
+}
+
+.biorhythm-card .emo {
+  color: var(--app-emo-color);
+}
+
+.biorhythm-card .phy{
+  color: var(--app-phy-color)
+}
+
+.biorhythm-card .int {
+  color: var(--app-int-color)
+}

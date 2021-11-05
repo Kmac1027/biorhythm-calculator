@@ -1,0 +1,11 @@
+.biorhythm-card .emo path{
+  stroke:  var(--app-emo-color);
+}
+
+.biorhythm-card .phy path {
+  stroke: var(--app-phy-color);
+}
+
+.biorhythm-card .int path{
+  stroke: var(--app-phy-color);
+}
